@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.cakhanif.me/index/</loc>
+    <loc>http://blog.cakhanif.me/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.cakhanif.me/</loc>
+    <loc>http://blog.cakhanif.me/index/</loc>
     <priority>0</priority>
   </url>
   
